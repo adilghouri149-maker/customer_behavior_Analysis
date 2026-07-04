@@ -2,7 +2,8 @@ customer_behavior_Analysis
 data analytics project showcasing customer behavior analysis using Python, SQL and Power BI 
  Data Analytics Project
 
- 📌 Overview
+ 📌 Overview:
+ 
 This project demonstrates a complete data analytics workflow:
 . Loading and exploring a dataset in Python
 . Performing Exploratory Data Analysis (EDA)
@@ -14,7 +15,8 @@ This project demonstrates a complete data analytics workflow:
 
 
 
- 📂 Dataset
+ 📂 Dataset:
+ 
 . Source: [Specify dataset name, e.g., Zomato.csv or Amazon Sales Report]
 . Format: CSV
 . Size: [Add rows/columns if relevant]
@@ -22,7 +24,8 @@ This project demonstrates a complete data analytics workflow:
 
 
 
- 🛠 Tools & Technologies
+ 🛠 Tools & Technologies:
+ 
 . **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 . **PostgreSQL** (SQL queries, data storage)
 . **Power BI** (dashboard creation)
@@ -31,7 +34,8 @@ This project demonstrates a complete data analytics workflow:
 
 
 
- 🔑 Steps
+ 🔑 Steps:
+ 
 1. **Load Dataset**  
    Import CSV into Python using Pandas.
 2. **Exploratory Data Analysis (EDA)**  
