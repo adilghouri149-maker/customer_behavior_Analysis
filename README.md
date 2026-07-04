@@ -89,8 +89,11 @@ This project demonstrates a complete data analytics workflow:
        
  4. power BI Dashbord.
    https://github.com/adilghouri149-maker/customer_behavior_Analysis/blob/main/customer_behavior_dashboard%20(1).pbix
-   images/dashboard.png
-<img width="1680" height="923" alt="dashboard png" src="https://github.com/user-attachments/assets/24f58c88-2fe0-4468-8cb2-adfa388ebf4b" />
+  
+ 📊 Customer Behavior Dashboard
+
+![Customer Behavior Dashboard](attachments/gj5ceKQ8C62ia9TxVGiVE.png)
+
 
     
          
