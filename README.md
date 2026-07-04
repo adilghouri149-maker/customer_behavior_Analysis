@@ -92,7 +92,8 @@ This project demonstrates a complete data analytics workflow:
   
  📊 Customer Behavior Dashboard
 
-![Customer Behavior Dashboard](attachments/gj5ceKQ8C62ia9TxVGiVE.png)
+<img width="1680" height="923" alt="dashboard png"dashboard.png.png/>
+
 
 
     
