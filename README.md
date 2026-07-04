@@ -17,10 +17,8 @@ This project demonstrates a complete data analytics workflow:
 
  📂 Dataset:
  
-. Source: [Specify dataset name, e.g., Zomato.csv or Amazon Sales Report]
+. Source: [customer_behavior_Analysis]
 . Format: CSV
-. Size: [Add rows/columns if relevant]
-. Description: Contains information on [brief dataset context, e.g., restaurants, sales transactions].
 
 
 
