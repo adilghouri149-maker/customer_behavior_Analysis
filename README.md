@@ -92,7 +92,7 @@ This project demonstrates a complete data analytics workflow:
   
  📊 Customer Behavior Dashboard
 
-<img width="1680" height="923" alt="dashboard png"dashboard.png.png/>
+<img width="1680" height="923" alt="https://github.com/adilghouri149-maker/customer_behavior_Analysis/blob/main/dashboard.png.png" />
 
 
 
